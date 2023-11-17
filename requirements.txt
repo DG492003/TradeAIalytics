@@ -1,4 +1,4 @@
-jup﻿ansi2html==1.8.0
+﻿ansi2html==1.8.0
 anyio==3.6.2
 appdirs==1.4.4
 argon2-cffi==21.3.0
