@@ -96,7 +96,6 @@ pandas-datareader==0.10.0
 pandocfilters==1.5.0
 parsel==1.8.1
 parso==0.8.3
-peewee==3.16.3
 pickleshare==0.7.5
 Pillow==9.5.0
 platformdirs==3.5.1
