@@ -1,1 +1,1 @@
-gunicorn index_app:server --bind=127.0.0.1:8050
+gunicorn index_app:app
