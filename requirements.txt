@@ -14,8 +14,4 @@ scipy==1.7.3
 sklearn==0.0
 yfinance==0.1.67
 dash-renderer==1.8.2
-numpy==1.18.5
-pandas==1.1.2
-scipy==1.5.2
 sklearn==0.0
-yfinance==0.1.67
