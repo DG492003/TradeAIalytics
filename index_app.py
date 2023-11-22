@@ -23,6 +23,7 @@ external_stylesheets = [
 app = dash.Dash(__name__, title="TradeAIalytics",
                 external_stylesheets=external_stylesheets)
 app.css.config.serve_locally = True
+app.config.suppress_callback_exceptions = True 
 server = app.server
 
 
