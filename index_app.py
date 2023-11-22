@@ -61,7 +61,6 @@ body = html.Div([
                     id='date-picker-range',
                     min_date_allowed=date(1995, 8, 5),
                     display_format="YY-MM-DD",
-                    start_date=date(2003, 9, 5),
                     max_date_allowed=date.now(),
                     initial_visible_month=date.now(),
                     end_date=date.now().date(),
